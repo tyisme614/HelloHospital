@@ -1,0 +1,22 @@
+var express = require('express');
+var router = express.Router();
+var target;
+
+//retrive target video name
+router.param('name', function(req, res, next, value){
+	console.log('received video parameter:' + value);
+	target = value;
+	next();
+});
+/* GET home page. */
+router.get('/videos/:item', function(req, res, next) {
+	var tmp = req.params.item; 
+	console.log('req=' + tmp);
+ 	res.render('videos/video_item', 
+ 		{title:tmp,
+ 		 description:'this is video description'
+ 	});
+ 	
+});
+
+module.exports = router;
