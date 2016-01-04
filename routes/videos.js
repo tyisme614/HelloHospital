@@ -1,11 +1,31 @@
 var express = require('express');
 var router = express.Router();
 
+var videos = [];
+videos.push({
+	id:'1',
+	photo:'01.png',
+	title:'启动会祝语01',
+	desc:'启动会祝语01',
+	length:'03:36',
+	url:'http://v.youku.com/v_show/id_XMTQzNTEyODI4MA==.html'
+});
+
+videos.push({
+	id:'2',
+	photo:'02.png',
+	title:'启动会祝语02',
+	desc:'启动会祝语02',
+	length:'06:11',
+	url:'http://v.youku.com/v_show/id_XMTQzNTE3Mjc1Mg==.html'
+});
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
  	 console.log('video_list');
- 	res.render('video_list');
+ 	res.render('video_list', {
+ 		videos:videos
+ 	});
 
 });
 

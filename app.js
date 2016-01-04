@@ -48,8 +48,8 @@ if (app.get('env') === 'development') {
       error: err
     });
   });
-  console.log('disable view cache');
-  app.disable('view cache');
+  console.log('application started, listening:' + process.env.PORT);
+//  app.disable('view cache');
 }
 
 // production error handler
