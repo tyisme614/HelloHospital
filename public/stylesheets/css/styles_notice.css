@@ -19,18 +19,33 @@ blockquote:before, blockquote:after, q:before, q:after { content: ''; content: n
 table { border-collapse: collapse; border-spacing: 0; }
 img { border: 0; max-width: 100%; }
 
-a { text-decoration: none; }
 
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
 
-    text-decoration: none;
-    color: initial;
-}
 /** content display **/
 #view { display: block; max-width: 800px; padding: 0; margin: 0; }
+#buttonlist { display: block; max-width: 800px; padding: 0; margin: 0; position:relative; align-items: center;
+  justify-content: center; margin-top: 20px }
+#buttonlist a.button_agree {
+	font-size: 2.0em;
+    width:100px;
+    top:5%;
+    left:25%;
+    text-decoration: none;
+    color: #32CD32;
+    text-align: center;
+    position:absolute; 
+}
+#buttonlist a.button_disagree {
+  font-size: 2.0em;
+	top:5%;
+    left:60%;
+    text-decoration: none;
+    color: #A52A2A;
+    position:absolute; 
+    text-align: center;
+    width:100px;
+}
+}
 
 #container { display: block; margin-top: 55px; }
 #container ul { }
