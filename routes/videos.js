@@ -23,8 +23,8 @@ videos.push({
 videos.push({
 	id:'3',
 	photo:'03.png',
-	title:'杨跃进—再论LM病变的血运重建策略（上）',
-	desc:'杨跃进—再论LM病变的血运重建策略（上）',
+	title:'再论LM病变的血运重建策略（上）',
+	desc:'杨跃进',
 	length:'19:14',
 	url:'http://v.youku.com/v_show/id_XMTQzNTMzNTU4MA==.html'
 });
@@ -32,8 +32,8 @@ videos.push({
 videos.push({
 	id:'4',
 	photo:'04.png',
-	title:'杨跃进—再论LM病变的血运重建策略（下）',
-	desc:'杨跃进—再论LM病变的血运重建策略（下）',
+	title:'再论LM病变的血运重建策略（下）',
+	desc:'杨跃进',
 	length:'21:37',
 	url:'http://v.youku.com/v_show/id_XMTQzNTMzNjQ4NA==.html'
 });
@@ -41,8 +41,8 @@ videos.push({
 videos.push({
 	id:'5',
 	photo:'05.png',
-	title:'王红石—NSTEACS的介入治疗（上）',
-	desc:'王红石—NSTEACS的介入治疗（上）',
+	title:'NSTEACS的介入治疗（上）',
+	desc:'王红石',
 	length:'20:21',
 	url:'http://v.youku.com/v_show/id_XMTQzNTMzNjY1Mg==.html'
 });
@@ -50,8 +50,8 @@ videos.push({
 videos.push({
 	id:'6',
 	photo:'06.png',
-	title:'杨跃进—再论LM病变的血运重建策略（上）',
-	desc:'杨跃进—再论LM病变的血运重建策略（上）',
+	title:'再论LM病变的血运重建策略（上）',
+	desc:'杨跃进',
 	length:'19:14',
 	url:'http://v.youku.com/v_show/id_XMTQzNjEwMTIyOA==.html'
 });
@@ -59,8 +59,8 @@ videos.push({
 videos.push({
 	id:'7',
 	photo:'07.png',
-	title:'杨跃进—再论LM病变的血运重建策略（下）',
-	desc:'杨跃进—再论LM病变的血运重建策略（下）',
+	title:'再论LM病变的血运重建策略（下）',
+	desc:'杨跃进',
 	length:'21:37',
 	url:'http://v.youku.com/v_show/id_XMTQzNjEwMTQ2NA==.html'
 });
@@ -68,8 +68,8 @@ videos.push({
 videos.push({
 	id:'8',
 	photo:'08.jpg',
-	title:'王红石—NSTEACS的介入治疗（上）',
-	desc:'王红石—NSTEACS的介入治疗（上）',
+	title:'NSTEACS的介入治疗（上）',
+	desc:'王红石',
 	length:'20:21',
 	url:'http://v.youku.com/v_show/id_XMTQzNTMzNjY1Mg==.html'
 });

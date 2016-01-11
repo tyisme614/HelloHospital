@@ -10,7 +10,7 @@ var users = require('./routes/users');
 var videos = require('./routes/videos');
 var docs = require('./routes/docs');
 //var video_item = require('./routes/video_item');
-process.env.PORT = '8080';
+process.env.PORT = '8088';
 var app = express();
 
 // view engine setup
