@@ -47,32 +47,6 @@ videos.push({
 	url:'http://v.youku.com/v_show/id_XMTQzNTMzNjY1Mg==.html'
 });
 
-videos.push({
-	id:'6',
-	photo:'06.png',
-	title:'再论LM病变的血运重建策略（上）',
-	desc:'杨跃进',
-	length:'19:14',
-	url:'http://v.youku.com/v_show/id_XMTQzNjEwMTIyOA==.html'
-});
-
-videos.push({
-	id:'7',
-	photo:'07.png',
-	title:'再论LM病变的血运重建策略（下）',
-	desc:'杨跃进',
-	length:'21:37',
-	url:'http://v.youku.com/v_show/id_XMTQzNjEwMTQ2NA==.html'
-});
-
-videos.push({
-	id:'8',
-	photo:'08.jpg',
-	title:'NSTEACS的介入治疗（上）',
-	desc:'王红石',
-	length:'20:21',
-	url:'http://v.youku.com/v_show/id_XMTQzNTMzNjY1Mg==.html'
-});
 /* GET home page. */
 router.get('/', function(req, res, next) {
  	 console.log('video_list');
