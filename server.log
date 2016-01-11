@@ -3,201 +3,34 @@
 > node ./bin/www
 
 application started, listening:8088
-target_docs
-target_docs
-[0mGET /index?target=target_docs [32m200 [0m35.299 ms - 3106[0m
-target_docs
-target_docs
-[0mGET /index?target=target_docs&nsukey=F1cpmgz8%2FE7fqCmXLVpoNw8HAyfOEihaNpHXWqd5hFBF0v8%2BkEBzy1eLwTNqLMxh2wmn9WCTXzVP9%2FZ83TGjiQ%3D%3D [32m200 [0m3.005 ms - 3106[0m
-[0mGET /stylesheets/css/styles_notice.css [32m200 [0m4.711 ms - 5546[0m
-[0mGET /javascripts/jquery.min.js [36m304 [0m14.719 ms - -[0m
-[0mGET /javascripts/retina.js [36m304 [0m2.837 ms - -[0m
-[0mGET /docs [32m200 [0m3.723 ms - 2267[0m
-[0mGET /stylesheets/css/style_doc.css [32m200 [0m2.792 ms - 4843[0m
-[0mGET /docs?nsukey=MFiYbYajakj3kc0kkMSl6fqMqDgS28KAZZSxYAPJKyA1vT4pSNblLkCAlKIUVi%2B31%2FMVGWZ7YLtMMjLf4UtQXA%3D%3D [32m200 [0m3.483 ms - 2267[0m
-[0mGET /stylesheets/css/style_doc.css [32m200 [0m2.148 ms - 4843[0m
-[0mGET /javascripts/retina.js [32m200 [0m1.452 ms - 1326[0m
-[0mGET /javascripts/jquery.min.js [32m200 [0m3.423 ms - 95825[0m
-[0mGET /docs?nsukey=MFiYbYajakj3kc0kkMSl6fqMqDgS28KAZZSxYAPJKyA1vT4pSNblLkCAlKIUVi%2B31%2FMVGWZ7YLtMMjLf4UtQXA%3D%3D [32m200 [0m2.439 ms - 2267[0m
-target_videos
-target_videos
-[0mGET /index?target=target_videos [32m200 [0m6.590 ms - 3108[0m
-[0mGET http://www.baidu.com/ [33m404 [0m9.256 ms - 1206[0m
-[0mGET http://115.28.32.109:8080/ [33m404 [0m40.711 ms - 1206[0m
-target_docs
-target_docs
-[0mGET /index?target=target_docs [32m200 [0m12.806 ms - 3106[0m
-[0mGET /stylesheets/css/styles_notice.css [32m200 [0m7.711 ms - 5546[0m
-[0mGET /javascripts/jquery.min.js [32m200 [0m5.312 ms - 95825[0m
-[0mGET /javascripts/retina.js [32m200 [0m2.980 ms - 1326[0m
-target_videos
-target_videos
-[0mGET /index?target=target_videos [32m200 [0m2.413 ms - 3108[0m
-[0mGET /stylesheets/css/styles_notice.css [32m200 [0m5.542 ms - 5546[0m
-[0mGET /javascripts/retina.js [32m200 [0m4.439 ms - 1326[0m
-[0mGET /javascripts/jquery.min.js [32m200 [0m5.376 ms - 95825[0m
-target_videos
-target_videos
-[0mGET /index?target=target_videos&nsukey=8OU32lLUN3h2GmBfKhJUqnkXg6mWjcMyDV%2BYHc776btN57DmkpKNEeZ4YFsM00tlXKLM4B8P8z4f1ssLM09%2B0w%3D%3D [32m200 [0m2.894 ms - 3108[0m
-[0mGET /stylesheets/css/styles_notice.css [32m200 [0m0.989 ms - 5546[0m
-[0mGET /javascripts/jquery.min.js [32m200 [0m0.845 ms - 95825[0m
-[0mGET /javascripts/retina.js [32m200 [0m1.837 ms - 1326[0m
-video_list
-[0mGET /videos [32m200 [0m6.661 ms - 3864[0m
-[0mGET /javascripts/jquery.min.js [36m304 [0m4.780 ms - -[0m
-[0mGET /javascripts/retina.js [36m304 [0m7.754 ms - -[0m
-[0mGET /stylesheets/css/style_video.css [32m200 [0m16.115 ms - 4877[0m
-[0mGET /images/04.png [32m200 [0m6.782 ms - 13504[0m
-[0mGET /images/01.png [32m200 [0m3.529 ms - 17704[0m
-[0mGET /images/03.png [32m200 [0m3.336 ms - 13921[0m
-[0mGET /images/05.png [32m200 [0m3.699 ms - 10764[0m
-[0mGET /images/02.png [32m200 [0m4.396 ms - 18463[0m
-[0mGET /javascripts/retina.js [32m200 [0m1.869 ms - 1326[0m
-[0mGET /javascripts/jquery.min.js [32m200 [0m2.457 ms - 95825[0m
-video_list
-[0mGET /videos?nsukey=r%2FfL6B%2FONh38dalEyaN8TZV7P279gmSh8zHOJkW22yi3mbdFx0t9AD0uFU68A%2BJH1%2BiRr7AzzdMXty9EKkULjw%3D%3D [32m200 [0m7.419 ms - 3864[0m
-[0mGET /stylesheets/css/style_video.css [32m200 [0m1.336 ms - 4877[0m
-[0mGET /javascripts/retina.js [32m200 [0m7.431 ms - 1326[0m
-[0mGET /images/01.png [32m200 [0m6.745 ms - 17704[0m
-[0mGET /images/04.png [32m200 [0m7.387 ms - 13504[0m
-[0mGET /javascripts/jquery.min.js [32m200 [0m7.226 ms - 95825[0m
-[0mGET /images/03.png [32m200 [0m6.939 ms - 13921[0m
-[0mGET /images/02.png [32m200 [0m2.083 ms - 18463[0m
-[0mGET /images/05.png [32m200 [0m1.283 ms - 10764[0m
-[0mGET /images/06.png [32m200 [0m1.766 ms - 13921[0m
-[0mGET /images/07.png [32m200 [0m2.743 ms - 13401[0m
-[0mGET /images/08.jpg [32m200 [0m3.612 ms - 2612[0m
-[0mHEAD /images/01@2x.png [32m200 [0m0.760 ms - 17704[0m
-[0mHEAD /images/02@2x.png [32m200 [0m1.230 ms - 18463[0m
-[0mHEAD /images/03@2x.png [32m200 [0m0.946 ms - 13921[0m
-[0mHEAD /images/04@2x.png [32m200 [0m1.104 ms - 13504[0m
-[0mHEAD /images/05@2x.png [32m200 [0m0.745 ms - 10764[0m
-[0mHEAD /images/06@2x.png [33m404 [0m1.614 ms - 1206[0m
-[0mHEAD /images/07@2x.png [33m404 [0m1.329 ms - 1206[0m
-[0mHEAD /images/08@2x.jpg [33m404 [0m4.417 ms - 1206[0m
-[0mGET /images/01@2x.png [32m200 [0m7.427 ms - 17704[0m
-[0mGET /images/02@2x.png [32m200 [0m7.929 ms - 18463[0m
-[0mGET /images/04@2x.png [32m200 [0m3.978 ms - 13504[0m
-[0mGET /images/05@2x.png [32m200 [0m4.340 ms - 10764[0m
-[0mGET /images/03@2x.png [32m200 [0m4.016 ms - 13921[0m
-video_list
-[0mGET /videos?nsukey=r%2FfL6B%2FONh38dalEyaN8TZV7P279gmSh8zHOJkW22yi3mbdFx0t9AD0uFU68A%2BJH1%2BiRr7AzzdMXty9EKkULjw%3D%3D [32m200 [0m7.052 ms - 3864[0m
-[0mGET /stylesheets/css/style_video.css [32m200 [0m1.679 ms - 4877[0m
-[0mGET /javascripts/jquery.min.js [32m200 [0m4.082 ms - 95825[0m
-[0mGET /javascripts/retina.js [32m200 [0m8.990 ms - 1326[0m
-[0mGET /images/03.png [32m200 [0m7.183 ms - 13921[0m
-[0mGET /images/01.png [32m200 [0m7.990 ms - 17704[0m
-[0mGET /images/02.png [32m200 [0m4.746 ms - 18463[0m
-[0mGET /images/04.png [32m200 [0m1.453 ms - 13504[0m
-[0mGET /images/07.png [32m200 [0m0.728 ms - 13401[0m
-[0mGET /images/08.jpg [32m200 [0m5.397 ms - 2612[0m
-[0mGET /images/05.png [32m200 [0m5.645 ms - 10764[0m
-[0mGET /images/06.png [32m200 [0m2.769 ms - 13921[0m
-[0mHEAD /images/01@2x.png [32m200 [0m1.881 ms - 17704[0m
-[0mHEAD /images/02@2x.png [32m200 [0m1.869 ms - 18463[0m
-[0mHEAD /images/03@2x.png [32m200 [0m1.839 ms - 13921[0m
-[0mHEAD /images/04@2x.png [32m200 [0m2.346 ms - 13504[0m
-[0mHEAD /images/05@2x.png [32m200 [0m2.106 ms - 10764[0m
-[0mHEAD /images/06@2x.png [33m404 [0m2.043 ms - 1206[0m
-[0mHEAD /images/07@2x.png [33m404 [0m1.340 ms - 1206[0m
-[0mHEAD /images/08@2x.jpg [33m404 [0m1.239 ms - 1206[0m
-[0mGET /images/01@2x.png [32m200 [0m2.513 ms - 17704[0m
-[0mGET /images/03@2x.png [32m200 [0m1.162 ms - 13921[0m
-[0mGET /images/02@2x.png [32m200 [0m1.089 ms - 18463[0m
-[0mGET /images/05@2x.png [32m200 [0m1.173 ms - 10764[0m
-[0mGET /images/04@2x.png [32m200 [0m1.512 ms - 13504[0m
+[0mGET / [33m404 [0m17.553 ms - 1206[0m
 undefined
 not defined
-[0mGET /index [32m200 [0m5.936 ms - 3108[0m
-[0mGET /stylesheets/css/styles_notice.css [32m200 [0m4.130 ms - 5546[0m
-[0mGET /javascripts/retina.js [32m200 [0m4.991 ms - 1326[0m
-[0mGET /javascripts/jquery.min.js [32m200 [0m5.492 ms - 95825[0m
-undefined
-not defined
-[0mGET /index [36m304 [0m2.051 ms - -[0m
-[0mGET /stylesheets/css/styles_notice.css [36m304 [0m0.868 ms - -[0m
-[0mGET /javascripts/jquery.min.js [36m304 [0m0.931 ms - -[0m
-[0mGET /javascripts/retina.js [36m304 [0m0.486 ms - -[0m
+[0mGET /index [32m200 [0m5.945 ms - 3108[0m
+[0mGET /stylesheets/css/styles_notice.css [32m200 [0m5.130 ms - 5546[0m
+[0mGET /javascripts/retina.js [32m200 [0m0.936 ms - 1326[0m
+[0mGET /javascripts/jquery.min.js [32m200 [0m2.453 ms - 95825[0m
 video_list
-[0mGET /videos [32m200 [0m3.030 ms - 3864[0m
-[0mGET /stylesheets/css/style_video.css [32m200 [0m1.412 ms - 4877[0m
-[0mGET /javascripts/jquery.min.js [36m304 [0m2.333 ms - -[0m
-[0mGET /javascripts/retina.js [36m304 [0m1.489 ms - -[0m
-[0mGET /images/01.png [32m200 [0m6.512 ms - 17704[0m
-[0mGET /images/02.png [32m200 [0m7.208 ms - 18463[0m
-[0mGET /images/04.png [32m200 [0m9.064 ms - 13504[0m
-[0mGET /images/05.png [32m200 [0m8.459 ms - 10764[0m
-[0mGET /images/06.png [32m200 [0m7.072 ms - 13921[0m
-[0mGET /images/07.png [32m200 [0m7.035 ms - 13401[0m
-[0mGET /images/03.png [32m200 [0m9.196 ms - 13921[0m
-[0mGET /images/08.jpg [32m200 [0m3.215 ms - 2612[0m
-[0mHEAD /images/01@2x.png [32m200 [0m0.674 ms - 17704[0m
-[0mHEAD /images/02@2x.png [32m200 [0m0.943 ms - 18463[0m
-[0mHEAD /images/03@2x.png [32m200 [0m1.174 ms - 13921[0m
-[0mHEAD /images/04@2x.png [32m200 [0m0.955 ms - 13504[0m
-[0mHEAD /images/05@2x.png [32m200 [0m1.375 ms - 10764[0m
-[0mHEAD /images/06@2x.png [33m404 [0m1.679 ms - 1206[0m
-[0mHEAD /images/07@2x.png [33m404 [0m1.352 ms - 1206[0m
-[0mHEAD /images/08@2x.jpg [33m404 [0m1.087 ms - 1206[0m
-[0mGET /images/01@2x.png [32m200 [0m2.993 ms - 17704[0m
-[0mGET /images/02@2x.png [32m200 [0m0.515 ms - 18463[0m
-[0mGET /images/03@2x.png [32m200 [0m1.022 ms - 13921[0m
-[0mGET /images/04@2x.png [32m200 [0m1.557 ms - 13504[0m
-[0mGET /images/05@2x.png [32m200 [0m4.132 ms - 10764[0m
-docs
-[0mGET /index?target=docs [33m404 [0m5.506 ms - 1019[0m
-target_docs
-target_docs
-[0mGET /index?target=target_docs [32m200 [0m6.369 ms - 3106[0m
-[0mGET /stylesheets/css/styles_notice.css [36m304 [0m1.290 ms - -[0m
-[0mGET /javascripts/jquery.min.js [36m304 [0m0.410 ms - -[0m
-[0mGET /javascripts/retina.js [36m304 [0m2.845 ms - -[0m
-[0mGET /docs [32m200 [0m4.637 ms - 2267[0m
-[0mGET /stylesheets/css/style_doc.css [32m200 [0m3.825 ms - 4843[0m
-[0mGET /javascripts/jquery.min.js [36m304 [0m1.765 ms - -[0m
-[0mGET /javascripts/retina.js [36m304 [0m1.960 ms - -[0m
-[0mGET http://wap.ip138.com/ [33m404 [0m10.265 ms - 1206[0m
-[0mGET http://www.baidu.com/ [33m404 [0m8.525 ms - 1206[0m
-[0mGET http://115.28.32.109:8080/ [33m404 [0m6.108 ms - 1206[0m
-[0mGET http://wap.ip138.com/ [33m404 [0m9.644 ms - 1206[0m
-target_videos
-target_videos
-[0mGET /index?target=target_videos [32m200 [0m14.380 ms - 3108[0m
-target_videos
-target_videos
-[0mGET /index?target=target_videos&nsukey=8OU32lLUN3h2GmBfKhJUqnkXg6mWjcMyDV%2BYHc776bv0FAWzR4cm7U8wESyBVz%2F4N8FUaCjEUlLhbFDCNx%2BQYw%3D%3D [32m200 [0m19.426 ms - 3108[0m
-[0mGET /stylesheets/css/styles_notice.css [32m200 [0m1.922 ms - 5546[0m
-[0mGET /javascripts/retina.js [32m200 [0m1.149 ms - 1326[0m
-[0mGET /javascripts/jquery.min.js [32m200 [0m4.052 ms - 95825[0m
-video_list
-[0mGET /videos [32m200 [0m6.887 ms - 3864[0m
-[0mGET /images/01.png [32m200 [0m2.972 ms - 17704[0m
-[0mGET /javascripts/jquery.min.js [36m304 [0m1.857 ms - -[0m
-[0mGET /stylesheets/css/style_video.css [0m- [0m- ms - -[0m
-[0mGET /javascripts/retina.js [36m304 [0m1.407 ms - -[0m
-video_list
-[0mGET /videos?nsukey=r%2FfL6B%2FONh38dalEyaN8TZV7P279gmSh8zHOJkW22yh1BsdefxgrIGXR3ZDqWrObJbysuwNCKIFPquLb6SUITQ%3D%3D [32m200 [0m8.374 ms - 3864[0m
-[0mGET /stylesheets/css/style_video.css [32m200 [0m1.860 ms - 4877[0m
-[0mGET /javascripts/retina.js [32m200 [0m1.097 ms - 1326[0m
-[0mGET /images/01.png [32m200 [0m1.012 ms - 17704[0m
-[0mGET /images/02.png [32m200 [0m2.665 ms - 18463[0m
-[0mGET /images/03.png [32m200 [0m3.700 ms - 13921[0m
-[0mGET /javascripts/jquery.min.js [32m200 [0m1.038 ms - 95825[0m
-[0mGET /images/04.png [32m200 [0m1.113 ms - 13504[0m
-[0mGET /images/05.png [32m200 [0m1.340 ms - 10764[0m
-[0mGET /images/06.png [32m200 [0m1.182 ms - 13921[0m
-[0mGET /images/07.png [32m200 [0m1.260 ms - 13401[0m
-[0mGET /images/08.jpg [32m200 [0m1.615 ms - 2612[0m
-[0mHEAD /images/01@2x.png [32m200 [0m0.872 ms - 17704[0m
-[0mHEAD /images/02@2x.png [32m200 [0m1.233 ms - 18463[0m
-[0mHEAD /images/03@2x.png [32m200 [0m0.668 ms - 13921[0m
-[0mHEAD /images/04@2x.png [32m200 [0m1.838 ms - 13504[0m
-[0mHEAD /images/05@2x.png [32m200 [0m0.805 ms - 10764[0m
-[0mHEAD /images/07@2x.png [33m404 [0m2.556 ms - 1206[0m
-[0mGET /images/01@2x.png [32m200 [0m1.078 ms - 17704[0m
-[0mGET /images/03@2x.png [32m200 [0m1.266 ms - 13921[0m
-[0mHEAD /images/06@2x.png [33m404 [0m2.279 ms - 1206[0m
-[0mHEAD /images/08@2x.jpg [33m404 [0m2.652 ms - 1206[0m
-[0mGET /images/05@2x.png [32m200 [0m1.772 ms - 10764[0m
-[0mGET /images/02@2x.png [32m200 [0m2.077 ms - 18463[0m
-[0mGET /images/04@2x.png [32m200 [0m1.559 ms - 13504[0m
+[0mGET /videos [32m200 [0m5.472 ms - 2926[0m
+[0mGET /stylesheets/css/style_video.css [32m200 [0m1.749 ms - 4877[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m2.063 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m0.578 ms - -[0m
+[0mGET /images/04.png [32m200 [0m1.916 ms - 13504[0m
+[0mGET /images/05.png [32m200 [0m3.473 ms - 10764[0m
+[0mGET /images/02.png [32m200 [0m6.236 ms - 18463[0m
+[0mGET /images/01.png [32m200 [0m1.735 ms - 17704[0m
+[0mGET /images/03.png [32m200 [0m1.126 ms - 13921[0m
+[0mHEAD /images/01@2x.png [32m200 [0m1.050 ms - 17704[0m
+[0mHEAD /images/02@2x.png [32m200 [0m0.407 ms - 18463[0m
+[0mHEAD /images/03@2x.png [32m200 [0m2.090 ms - 13921[0m
+[0mHEAD /images/04@2x.png [32m200 [0m0.545 ms - 13504[0m
+[0mHEAD /images/05@2x.png [32m200 [0m1.064 ms - 10764[0m
+[0mGET /images/01@2x.png [32m200 [0m1.237 ms - 17704[0m
+[0mGET /images/02@2x.png [32m200 [0m1.406 ms - 18463[0m
+[0mGET /images/03@2x.png [32m200 [0m1.117 ms - 13921[0m
+[0mGET /images/04@2x.png [32m200 [0m1.957 ms - 13504[0m
+[0mGET /images/05@2x.png [32m200 [0m2.028 ms - 10764[0m
+[0mGET /docs [32m200 [0m10.327 ms - 7868[0m
+[0mGET /stylesheets/css/style_doc.css [32m200 [0m2.496 ms - 4843[0m
+[0mGET /javascripts/retina.js [36m304 [0m0.362 ms - -[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m0.919 ms - -[0m
