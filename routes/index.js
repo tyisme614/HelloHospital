@@ -12,7 +12,7 @@ var target;
 // 	next();
 // });
 
-router.get('/index', function(req, res, next) {
+router.get('/', function(req, res, next) {
 	target = req.query.target;//req.param('target');
 	console.log(target);
 	if(!target){

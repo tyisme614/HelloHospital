@@ -3,34 +3,13 @@
 > node ./bin/www
 
 application started, listening:8088
-[0mGET / [33m404 [0m17.553 ms - 1206[0m
-undefined
-not defined
-[0mGET /index [32m200 [0m5.945 ms - 3108[0m
-[0mGET /stylesheets/css/styles_notice.css [32m200 [0m5.130 ms - 5546[0m
-[0mGET /javascripts/retina.js [32m200 [0m0.936 ms - 1326[0m
-[0mGET /javascripts/jquery.min.js [32m200 [0m2.453 ms - 95825[0m
-video_list
-[0mGET /videos [32m200 [0m5.472 ms - 2926[0m
-[0mGET /stylesheets/css/style_video.css [32m200 [0m1.749 ms - 4877[0m
-[0mGET /javascripts/jquery.min.js [36m304 [0m2.063 ms - -[0m
-[0mGET /javascripts/retina.js [36m304 [0m0.578 ms - -[0m
-[0mGET /images/04.png [32m200 [0m1.916 ms - 13504[0m
-[0mGET /images/05.png [32m200 [0m3.473 ms - 10764[0m
-[0mGET /images/02.png [32m200 [0m6.236 ms - 18463[0m
-[0mGET /images/01.png [32m200 [0m1.735 ms - 17704[0m
-[0mGET /images/03.png [32m200 [0m1.126 ms - 13921[0m
-[0mHEAD /images/01@2x.png [32m200 [0m1.050 ms - 17704[0m
-[0mHEAD /images/02@2x.png [32m200 [0m0.407 ms - 18463[0m
-[0mHEAD /images/03@2x.png [32m200 [0m2.090 ms - 13921[0m
-[0mHEAD /images/04@2x.png [32m200 [0m0.545 ms - 13504[0m
-[0mHEAD /images/05@2x.png [32m200 [0m1.064 ms - 10764[0m
-[0mGET /images/01@2x.png [32m200 [0m1.237 ms - 17704[0m
-[0mGET /images/02@2x.png [32m200 [0m1.406 ms - 18463[0m
-[0mGET /images/03@2x.png [32m200 [0m1.117 ms - 13921[0m
-[0mGET /images/04@2x.png [32m200 [0m1.957 ms - 13504[0m
-[0mGET /images/05@2x.png [32m200 [0m2.028 ms - 10764[0m
-[0mGET /docs [32m200 [0m10.327 ms - 7868[0m
-[0mGET /stylesheets/css/style_doc.css [32m200 [0m2.496 ms - 4843[0m
-[0mGET /javascripts/retina.js [36m304 [0m0.362 ms - -[0m
-[0mGET /javascripts/jquery.min.js [36m304 [0m0.919 ms - -[0m
+target_docs
+target_docs
+[0mGET /index?target=target_docs [36m304 [0m21.053 ms - -[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m7.546 ms - -[0m
+[0mGET /stylesheets/css/styles_notice.css [36m304 [0m1.653 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m0.577 ms - -[0m
+[0mGET /docs [32m200 [0m7.236 ms - 7868[0m
+[0mGET /javascripts/retina.js [36m304 [0m0.862 ms - -[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m1.441 ms - -[0m
+[0mGET /stylesheets/css/style_doc.css [36m304 [0m1.426 ms - -[0m
