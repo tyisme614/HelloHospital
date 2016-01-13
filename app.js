@@ -9,6 +9,8 @@ var routes = require('./routes/index');
 var users = require('./routes/users');
 var videos = require('./routes/videos');
 var docs = require('./routes/docs');
+var wechat = require('./routes/wechat');
+var admin = require('./routes/admin');
 //var video_item = require('./routes/video_item');
 process.env.PORT = '8088';
 var app = express();
@@ -29,6 +31,8 @@ app.use('/index', routes);
 app.use('/users', users);
 app.use('/videos', videos);
 app.use('/docs', docs);
+app.use('/wechat', wechat);
+app.use('/admin', admin);
 //app.use('/videos/:item', video_item);
 
 // catch 404 and forward to error handler
@@ -38,18 +42,19 @@ app.use(function(req, res, next) {
   next(err);
 });
 
-// error handlers
 
+
+// error handlers
 // development error handler
 // will print stacktrace
 if (app.get('env') === 'development') {
-  app.use(function(err, req, res, next) {
-    res.status(err.status || 500);
-    res.render('error', {
-      message: err.message,
-      error: err
-    });
-  });
+  // app.use(function(err, req, res, next) {
+  //   res.status(err.status || 500);
+  //   res.render('error', {
+  //     message: err.message,
+  //     error: err
+  //   });
+  // });
   console.log('application started, listening:' + process.env.PORT);
 //  app.disable('view cache');
 }

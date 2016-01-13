@@ -20,8 +20,8 @@ router.get('/', function(req, res, next) {
 		res.render('index', {
   		target:'videos'
   		});
-	}
-	if(target === 'target_videos'){
+  		
+	}else if(target === 'target_videos'){
 		console.log(target);
 		res.render('index', {
 			target:'videos'
@@ -32,7 +32,7 @@ router.get('/', function(req, res, next) {
 			target:'docs'
 		});
 	}
-  
+  	res.end();
   	next();
 });
 

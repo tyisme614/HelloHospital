@@ -3,13 +3,261 @@
 > node ./bin/www
 
 application started, listening:8088
+target_videos
+target_videos
+[0mGET /index?target=target_videos [32m200 [0m27.044 ms - 3108[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos&nsukey=g3UcP0pwFzDGUZx0uS2Jo2tiGUX4T9yNfY2xkPqHorqVx1yUtHWHd8B6wVKsdck98n4ctqV0u9TM8KRecrDFkA%3D%3D [32m200 [0m6.828 ms - 3108[0m
+[0mGET /stylesheets/css/styles_notice.css [32m200 [0m11.534 ms - 5546[0m
+[0mGET /javascripts/retina.js [32m200 [0m5.810 ms - 1326[0m
+[0mGET /javascripts/jquery.min.js [32m200 [0m5.736 ms - 95825[0m
+video_list
+[0mGET /videos [32m200 [0m8.650 ms - 2926[0m
+video_list
+[0mGET /videos?nsukey=KaPRwMXjVyQCT2YcujfyJKsWSf59NDqqHLecUE1DfbZRdHU0T5Zu%2FIjYKi8x1soGvpFF0K6BS0HDt9qp%2B04o1Q%3D%3D [32m200 [0m3.791 ms - 2926[0m
+[0mGET /stylesheets/css/style_video.css [32m200 [0m1.844 ms - 4877[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m2.171 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m0.524 ms - -[0m
+[0mGET /images/01.png [32m200 [0m1.605 ms - 17704[0m
+[0mGET /images/02.png [32m200 [0m1.804 ms - 18463[0m
+[0mGET /images/04.png [32m200 [0m1.059 ms - 13504[0m
+[0mGET /images/03.png [32m200 [0m1.841 ms - 13921[0m
+[0mGET /images/05.png [32m200 [0m2.301 ms - 10764[0m
+[0mHEAD /images/01@2x.png [32m200 [0m2.208 ms - 17704[0m
+[0mHEAD /images/02@2x.png [32m200 [0m1.988 ms - 18463[0m
+[0mHEAD /images/03@2x.png [32m200 [0m1.711 ms - 13921[0m
+[0mHEAD /images/04@2x.png [32m200 [0m0.925 ms - 13504[0m
+[0mHEAD /images/05@2x.png [32m200 [0m1.590 ms - 10764[0m
+[0mGET /images/01@2x.png [32m200 [0m1.661 ms - 17704[0m
+[0mGET /images/02@2x.png [32m200 [0m1.139 ms - 18463[0m
+[0mGET /images/03@2x.png [32m200 [0m1.845 ms - 13921[0m
+[0mGET /images/04@2x.png [32m200 [0m1.297 ms - 13504[0m
+[0mGET /images/05@2x.png [32m200 [0m1.418 ms - 10764[0m
+[0mGET /manager/html [33m404 [0m9.294 ms - 1093[0m
+target_doc
+[0mGET /index?target=target_doc [33m404 [0m5.418 ms - 1019[0m
+target_doc
+[0mGET /index?target=target_doc&nsukey=lwk55ovKEQWTWzwdvUUSptGdQ8re5Lkd9snHg2fd%2B4l6jnT16bKwjheitEqkQKWfT55zmoWIh1u1zieu9R1BNw%3D%3D [33m404 [0m4.053 ms - 1019[0m
+undefined
+not defined
+[0mGET /index [32m200 [0m11.316 ms - 3108[0m
+[0mGET /stylesheets/css/styles_notice.css [32m200 [0m4.139 ms - 5546[0m
+[0mGET /javascripts/retina.js [32m200 [0m1.548 ms - 1326[0m
+[0mGET /javascripts/jquery.min.js [32m200 [0m2.737 ms - 95825[0m
+[0mGET /favicon.ico [33m404 [0m3.283 ms - 1093[0m
+target_doc
+[0mGET /index?target=target_doc [33m404 [0m3.683 ms - 1019[0m
+doc
+[0mGET /index?target=doc [33m404 [0m10.933 ms - 1019[0m
+target_video
+[0mGET /index?target=target_video [33m404 [0m4.054 ms - 1019[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos [32m200 [0m2.444 ms - 3108[0m
+[0mGET /stylesheets/css/styles_notice.css [36m304 [0m1.644 ms - -[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m1.700 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m4.196 ms - -[0m
 target_docs
 target_docs
-[0mGET /index?target=target_docs [36m304 [0m21.053 ms - -[0m
-[0mGET /javascripts/jquery.min.js [36m304 [0m7.546 ms - -[0m
-[0mGET /stylesheets/css/styles_notice.css [36m304 [0m1.653 ms - -[0m
-[0mGET /javascripts/retina.js [36m304 [0m0.577 ms - -[0m
-[0mGET /docs [32m200 [0m7.236 ms - 7868[0m
-[0mGET /javascripts/retina.js [36m304 [0m0.862 ms - -[0m
-[0mGET /javascripts/jquery.min.js [36m304 [0m1.441 ms - -[0m
-[0mGET /stylesheets/css/style_doc.css [36m304 [0m1.426 ms - -[0m
+[0mGET /index?target=target_docs [32m200 [0m2.939 ms - 3106[0m
+[0mGET /stylesheets/css/styles_notice.css [36m304 [0m1.979 ms - -[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m2.103 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m0.869 ms - -[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos [32m200 [0m2.798 ms - 3108[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m3.079 ms - -[0m
+[0mGET /stylesheets/css/styles_notice.css [32m200 [0m4.546 ms - 5546[0m
+[0mGET /javascripts/retina.js [36m304 [0m0.681 ms - -[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos&nsukey=g3UcP0pwFzDGUZx0uS2Jo2tiGUX4T9yNfY2xkPqHorqDnsGqLNuNphI0rEgCbtqozw2mfI4AA8ykrPkDagMUIg%3D%3D [32m200 [0m2.903 ms - 3108[0m
+[0mGET /stylesheets/css/styles_notice.css [32m200 [0m2.014 ms - 5546[0m
+[0mGET /javascripts/retina.js [32m200 [0m2.204 ms - 1326[0m
+[0mGET /javascripts/jquery.min.js [32m200 [0m2.421 ms - 95825[0m
+video_list
+[0mGET /videos [32m200 [0m5.920 ms - 2926[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m4.045 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m2.670 ms - -[0m
+[0mGET /stylesheets/css/style_video.css [32m200 [0m5.083 ms - 4877[0m
+[0mGET /images/02.png [32m200 [0m3.582 ms - 18463[0m
+[0mGET /images/01.png [32m200 [0m1.415 ms - 17704[0m
+video_list
+[0mGET /videos?nsukey=KaPRwMXjVyQCT2YcujfyJKsWSf59NDqqHLecUE1DfbYdcg%2FHmdBV1aPRGYtMWzeIcfSGtlYlpeQg0M6DuO7Hzg%3D%3D [32m200 [0m3.649 ms - 2926[0m
+[0mGET /stylesheets/css/style_video.css [32m200 [0m1.653 ms - 4877[0m
+[0mGET /javascripts/jquery.min.js [32m200 [0m1.471 ms - 95825[0m
+[0mGET /images/02.png [32m200 [0m1.890 ms - 18463[0m
+[0mGET /images/03.png [32m200 [0m1.993 ms - 13921[0m
+[0mGET /images/04.png [32m200 [0m0.787 ms - 13504[0m
+[0mGET /javascripts/retina.js [32m200 [0m0.704 ms - 1326[0m
+[0mGET /images/05.png [32m200 [0m1.232 ms - 10764[0m
+[0mGET /images/01.png [32m200 [0m1.813 ms - 17704[0m
+[0mHEAD /images/01@2x.png [32m200 [0m1.737 ms - 17704[0m
+[0mHEAD /images/03@2x.png [32m200 [0m0.769 ms - 13921[0m
+[0mHEAD /images/02@2x.png [32m200 [0m3.529 ms - 18463[0m
+[0mHEAD /images/04@2x.png [32m200 [0m2.444 ms - 13504[0m
+[0mHEAD /images/05@2x.png [32m200 [0m2.298 ms - 10764[0m
+[0mGET /images/01@2x.png [32m200 [0m2.857 ms - 17704[0m
+[0mGET /images/03@2x.png [32m200 [0m4.352 ms - 13921[0m
+[0mGET /images/04@2x.png [32m200 [0m2.070 ms - 13504[0m
+[0mGET /images/02@2x.png [32m200 [0m1.787 ms - 18463[0m
+[0mGET /images/05@2x.png [32m200 [0m0.795 ms - 10764[0m
+video_list
+[0mGET /videos?nsukey=KaPRwMXjVyQCT2YcujfyJKsWSf59NDqqHLecUE1DfbYdcg%2FHmdBV1aPRGYtMWzeIcfSGtlYlpeQg0M6DuO7Hzg%3D%3D [32m200 [0m2.296 ms - 2926[0m
+[0mGET /images/01.png [32m200 [0m1.946 ms - 17704[0m
+[0mGET /images/02.png [32m200 [0m11.749 ms - 18463[0m
+[0mGET /images/04.png [32m200 [0m11.389 ms - 13504[0m
+[0mGET /images/05.png [32m200 [0m12.129 ms - 10764[0m
+[0mGET /images/03.png [32m200 [0m11.062 ms - 13921[0m
+[0mHEAD /images/01@2x.png [32m200 [0m2.618 ms - 17704[0m
+[0mHEAD /images/02@2x.png [32m200 [0m1.846 ms - 18463[0m
+[0mHEAD /images/03@2x.png [32m200 [0m1.475 ms - 13921[0m
+[0mHEAD /images/04@2x.png [32m200 [0m1.338 ms - 13504[0m
+[0mHEAD /images/05@2x.png [32m200 [0m0.685 ms - 10764[0m
+[0mGET /images/01@2x.png [32m200 [0m1.154 ms - 17704[0m
+[0mGET /images/02@2x.png [32m200 [0m0.709 ms - 18463[0m
+[0mGET /images/03@2x.png [32m200 [0m1.542 ms - 13921[0m
+[0mGET /images/04@2x.png [32m200 [0m2.762 ms - 13504[0m
+[0mGET /images/05@2x.png [32m200 [0m0.460 ms - 10764[0m
+target_docs
+target_docs
+[0mGET /index?target=target_docs [32m200 [0m2.348 ms - 3106[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m2.369 ms - -[0m
+[0mGET /stylesheets/css/styles_notice.css [36m304 [0m2.292 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m0.640 ms - -[0m
+target_docs
+target_docs
+[0mGET /index?target=target_docs&nsukey=8dUkFnEPoWP4lZh2iNyFVNhq12GoUS7T2UTxuZruQL5JDU3SLuq5xMjwA7%2Fa2q2Zs1VBBLpsOUHV6u7m7AF95w%3D%3D [32m200 [0m2.752 ms - 3106[0m
+[0mGET /stylesheets/css/styles_notice.css [36m304 [0m0.912 ms - -[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m2.928 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m0.764 ms - -[0m
+[0mGET /docs [32m200 [0m3.035 ms - 7868[0m
+[0mGET /stylesheets/css/style_doc.css [32m200 [0m1.214 ms - 4843[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m0.654 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m0.315 ms - -[0m
+target_docs
+target_docs
+[0mGET /index?target=target_docs&nsukey=8dUkFnEPoWP4lZh2iNyFVNhq12GoUS7T2UTxuZruQL5JDU3SLuq5xMjwA7%2Fa2q2Zs1VBBLpsOUHV6u7m7AF95w%3D%3D [32m200 [0m2.650 ms - 3106[0m
+[0mGET /docs?nsukey=rZS4idG20oxrrjKMAOQjKPIDI1gtQZiqdQnKCroEvlLkk8v8GmCLGa0xSGCXy3MtVxs9bTpVkZPp0Bq5LB0BQA%3D%3D [32m200 [0m4.859 ms - 7868[0m
+[0mGET /stylesheets/css/style_doc.css [36m304 [0m0.988 ms - -[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m0.686 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m1.309 ms - -[0m
+[0mGET /docs?nsukey=rZS4idG20oxrrjKMAOQjKPIDI1gtQZiqdQnKCroEvlLkk8v8GmCLGa0xSGCXy3MtVxs9bTpVkZPp0Bq5LB0BQA%3D%3D [32m200 [0m4.010 ms - 7868[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos [32m200 [0m3.417 ms - 3108[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos [32m200 [0m2.869 ms - 3108[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos&amp;nsukey=g3UcP0pwFzDGUZx0uS2Jo2tiGUX4T9yNfY2xkPqHorrBp02TEg%2BTZGuBQCp%2F11MAnrTNomHGEs2rZIQRlkwIUg%3D%3D [32m200 [0m1.707 ms - 3108[0m
+[0mGET /stylesheets/css/styles_notice.css [32m200 [0m2.699 ms - 5546[0m
+[0mGET /javascripts/jquery.min.js [32m200 [0m2.256 ms - 95825[0m
+[0mGET /javascripts/retina.js [32m200 [0m3.161 ms - 1326[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos&amp;amp;nsukey=g3UcP0pwFzDGUZx0uS2Jo2tiGUX4T9yNfY2xkPqHorrBp02TEg%2BTZGuBQCp%2F11MAnrTNomHGEs2rZIQRlkwIUg%3D%3D&amp;nsukey=YqOTd5PEBRk38OIEBKKLKE5F0XXroGZGLitctMw8nffYHYhs6WPdtui3QfKb3Voe09XDPay0TXqqL9wcqXd88A%3D%3D [32m200 [0m2.556 ms - 3108[0m
+[0mGET /stylesheets/css/styles_notice.css [32m200 [0m1.213 ms - 5546[0m
+[0mGET /javascripts/jquery.min.js [0m- [0m- ms - -[0m
+[0mGET /javascripts/retina.js [32m200 [0m1.620 ms - 1326[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos&amp;amp;amp;nsukey=g3UcP0pwFzDGUZx0uS2Jo2tiGUX4T9yNfY2xkPqHorrBp02TEg%2BTZGuBQCp%2F11MAnrTNomHGEs2rZIQRlkwIUg%3D%3D&amp;amp;nsukey=YqOTd5PEBRk38OIEBKKLKE5F0XXroGZGLitctMw8nffYHYhs6WPdtui3QfKb3Voe09XDPay0TXqqL9wcqXd88A%3D%3D&amp;nsukey=O%2BC%2Fz0W7psVjuVhE9SnIcbfYQ76B0XfqYOgf8w5vSi%2B%2BPJmdTQb3ol55b31ctSwUgZ8wvcsDBdI3WUv%2BryHVow%3D%3D [32m200 [0m12.360 ms - 3108[0m
+[0mGET /stylesheets/css/styles_notice.css [32m200 [0m2.063 ms - 5546[0m
+[0mGET /javascripts/jquery.min.js [32m200 [0m1.021 ms - 95825[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos&amp;amp;nsukey=g3UcP0pwFzDGUZx0uS2Jo2tiGUX4T9yNfY2xkPqHorrBp02TEg%2BTZGuBQCp%2F11MAnrTNomHGEs2rZIQRlkwIUg%3D%3D&amp;nsukey=YqOTd5PEBRk38OIEBKKLKE5F0XXroGZGLitctMw8nffYHYhs6WPdtui3QfKb3Voe09XDPay0TXqqL9wcqXd88A%3D%3D&nsukey=O%2BC%2Fz0W7psVjuVhE9SnIcbfYQ76B0XfqYOgf8w5vSi%2B%2BPJmdTQb3ol55b31ctSwUgZ8wvcsDBdI3WUv%2BryHVow%3D%3D&nsukey=1fLKKds%2BfJfuHnLPJw7P4IjVp9YocpFZ74%2FsNZ2ZCtEVnykz9bm7M7f6efIMTzLgB8Yxh7ZsukGxHq0YzkEUFA%3D%3D [32m200 [0m4.725 ms - 3108[0m
+[0mGET /stylesheets/css/styles_notice.css [32m200 [0m4.539 ms - 5546[0m
+[0mGET /javascripts/retina.js [32m200 [0m5.235 ms - 1326[0m
+[0mGET /javascripts/jquery.min.js [32m200 [0m5.541 ms - 95825[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos&amp;amp;nsukey=g3UcP0pwFzDGUZx0uS2Jo2tiGUX4T9yNfY2xkPqHorrBp02TEg%2BTZGuBQCp%2F11MAnrTNomHGEs2rZIQRlkwIUg%3D%3D&amp;nsukey=YqOTd5PEBRk38OIEBKKLKE5F0XXroGZGLitctMw8nffYHYhs6WPdtui3QfKb3Voe09XDPay0TXqqL9wcqXd88A%3D%3D&nsukey=O%2BC%2Fz0W7psVjuVhE9SnIcbfYQ76B0XfqYOgf8w5vSi%2B%2BPJmdTQb3ol55b31ctSwUgZ8wvcsDBdI3WUv%2BryHVow%3D%3D&nsukey=1fLKKds%2BfJfuHnLPJw7P4IjVp9YocpFZ74%2FsNZ2ZCtEVnykz9bm7M7f6efIMTzLgB8Yxh7ZsukGxHq0YzkEUFA%3D%3D [32m200 [0m2.849 ms - 3108[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos [36m304 [0m4.260 ms - -[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos&nsukey=g3UcP0pwFzDGUZx0uS2Jo2tiGUX4T9yNfY2xkPqHorrBp02TEg%2BTZGuBQCp%2F11MA4GNUce3tnOYXWTtcvN6rhw%3D%3D [32m200 [0m1.626 ms - 3108[0m
+target_videos
+target_videos
+[0mGET /index?target=target_videos&nsukey=g3UcP0pwFzDGUZx0uS2Jo2tiGUX4T9yNfY2xkPqHorrBp02TEg%2BTZGuBQCp%2F11MA4GNUce3tnOYXWTtcvN6rhw%3D%3D [32m200 [0m7.563 ms - 3108[0m
+[0mGET /stylesheets/css/styles_notice.css [32m200 [0m2.463 ms - 5546[0m
+[0mGET /javascripts/retina.js [32m200 [0m1.840 ms - 1326[0m
+[0mGET /javascripts/jquery.min.js [32m200 [0m4.340 ms - 95825[0m
+video_list
+[0mGET /videos [32m200 [0m3.535 ms - 2926[0m
+[0mGET /stylesheets/css/style_video.css [32m200 [0m2.514 ms - 4877[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m3.434 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m0.773 ms - -[0m
+[0mGET /images/01.png [32m200 [0m2.021 ms - 17704[0m
+[0mGET /images/02.png [32m200 [0m2.164 ms - 18463[0m
+[0mGET /images/04.png [32m200 [0m3.385 ms - 13504[0m
+[0mGET /images/05.png [32m200 [0m6.975 ms - 10764[0m
+[0mGET /images/03.png [32m200 [0m7.687 ms - 13921[0m
+video_list
+[0mGET /videos?nsukey=KaPRwMXjVyQCT2YcujfyJKsWSf59NDqqHLecUE1DfbY6RKyFPhh72QfTMmvuVUtYdVBRpNLdCzg5OFHyzFLLvA%3D%3D [32m200 [0m1.609 ms - 2926[0m
+[0mGET /stylesheets/css/style_video.css [32m200 [0m1.978 ms - 4877[0m
+[0mGET /images/04.png [32m200 [0m6.184 ms - 13504[0m
+[0mGET /images/01.png [32m200 [0m7.239 ms - 17704[0m
+[0mGET /images/05.png [32m200 [0m7.645 ms - 10764[0m
+[0mGET /images/03.png [32m200 [0m8.447 ms - 13921[0m
+[0mGET /images/02.png [32m200 [0m7.167 ms - 18463[0m
+video_list
+[0mGET /videos?nsukey=KaPRwMXjVyQCT2YcujfyJKsWSf59NDqqHLecUE1DfbY6RKyFPhh72QfTMmvuVUtYdVBRpNLdCzg5OFHyzFLLvA%3D%3D [32m200 [0m4.457 ms - 2926[0m
+[0mGET /stylesheets/css/style_video.css [32m200 [0m1.607 ms - 4877[0m
+[0mGET /images/04.png [32m200 [0m3.041 ms - 13504[0m
+[0mGET /javascripts/retina.js [32m200 [0m3.871 ms - 1326[0m
+[0mGET /images/01.png [32m200 [0m3.722 ms - 17704[0m
+[0mGET /javascripts/jquery.min.js [32m200 [0m3.084 ms - 95825[0m
+[0mGET /images/03.png [32m200 [0m2.073 ms - 13921[0m
+[0mGET /images/02.png [32m200 [0m1.750 ms - 18463[0m
+[0mGET /images/05.png [32m200 [0m1.767 ms - 10764[0m
+[0mHEAD /images/01@2x.png [32m200 [0m1.070 ms - 17704[0m
+[0mHEAD /images/04@2x.png [32m200 [0m4.868 ms - 13504[0m
+[0mHEAD /images/02@2x.png [32m200 [0m3.352 ms - 18463[0m
+[0mHEAD /images/03@2x.png [32m200 [0m3.281 ms - 13921[0m
+[0mHEAD /images/05@2x.png [32m200 [0m3.183 ms - 10764[0m
+[0mGET /images/01@2x.png [32m200 [0m1.727 ms - 17704[0m
+[0mGET /images/02@2x.png [32m200 [0m3.111 ms - 18463[0m
+[0mGET /images/05@2x.png [32m200 [0m1.651 ms - 10764[0m
+[0mGET /images/04@2x.png [32m200 [0m2.335 ms - 13504[0m
+[0mGET /images/03@2x.png [32m200 [0m8.343 ms - 13921[0m
+[0mGET /index/javascripts/retina.js [33m404 [0m1.347 ms - 1206[0m
+[0mGET //html5shiv.googlecode.com/svn/trunk/html5.js [33m404 [0m0.848 ms - 1093[0m
+[0mGET /index/javascripts/jquery.min.js [33m404 [0m1.177 ms - 1206[0m
+target_docs
+target_docs
+[0mGET /index?target=target_docs [32m200 [0m2.520 ms - 3106[0m
+[0mGET /stylesheets/css/styles_notice.css [36m304 [0m1.009 ms - -[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m1.781 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m1.377 ms - -[0m
+target_docs
+target_docs
+[0mGET /index?target=target_docs&nsukey=8dUkFnEPoWP4lZh2iNyFVNhq12GoUS7T2UTxuZruQL5HGoNnYbHqRXCHrrOv4aCmo2ZrdgvS5SIrVS2SDdNXvw%3D%3D [32m200 [0m3.503 ms - 3106[0m
+target_docs
+target_docs
+[0mGET /index?target=target_docs&nsukey=8dUkFnEPoWP4lZh2iNyFVNhq12GoUS7T2UTxuZruQL5HGoNnYbHqRXCHrrOv4aCmo2ZrdgvS5SIrVS2SDdNXvw%3D%3D [32m200 [0m3.974 ms - 3106[0m
+[0mGET /stylesheets/css/styles_notice.css [36m304 [0m1.642 ms - -[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m1.396 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m1.205 ms - -[0m
+[0mGET /docs [32m200 [0m4.545 ms - 7868[0m
+[0mGET /stylesheets/css/style_doc.css [32m200 [0m1.004 ms - 4843[0m
+[0mGET /javascripts/jquery.min.js [36m304 [0m0.637 ms - -[0m
+[0mGET /javascripts/retina.js [36m304 [0m0.975 ms - -[0m
+[0mGET /docs?nsukey=rZS4idG20oxrrjKMAOQjKPIDI1gtQZiqdQnKCroEvlK6ZlyN%2FXKqOd7dXPQTa%2F4KpnUhstyFjzXr8h8hT0Cl3Q%3D%3D [32m200 [0m3.425 ms - 7868[0m
+[0mGET /stylesheets/css/style_doc.css [32m200 [0m1.606 ms - 4843[0m
+[0mGET /docs?nsukey=rZS4idG20oxrrjKMAOQjKPIDI1gtQZiqdQnKCroEvlK6ZlyN%2FXKqOd7dXPQTa%2F4KpnUhstyFjzXr8h8hT0Cl3Q%3D%3D [32m200 [0m4.772 ms - 7868[0m
+[0mGET /stylesheets/css/style_doc.css [32m200 [0m1.720 ms - 4843[0m
+[0mGET /javascripts/jquery.min.js [32m200 [0m1.100 ms - 95825[0m
+[0mGET /javascripts/retina.js [32m200 [0m1.659 ms - 1326[0m
+[0mGET http://www.baidu.com/ [33m404 [0m8.503 ms - 1093[0m
+[0mGET /manager/html [33m404 [0m1.951 ms - 1093[0m
+[0mGET http://wap.ip138.com/ [33m404 [0m3.869 ms - 1093[0m
+[0mGET /?signature=6377f579b7c08fde2e0b2220b2b6333c54ca0f82&echostr=6012918108621106999&timestamp=1452650036&nonce=351095613 [33m404 [0m7.973 ms - 1093[0m
+[0mGET http://www.carljzhou.com/azenv.php [33m404 [0m8.142 ms - 1093[0m
+[0mGET /?signature=6883ce1cd6d3d1f257732d1125401f3ad5558e36&echostr=2607995463853914943&timestamp=1452651327&nonce=1735058052 [33m404 [0m6.599 ms - 1093[0m
+[0mGET /?signature=efa36d813dcbded6c2803e584a593bc10cfab885&echostr=5224531377184945117&timestamp=1452651420&nonce=727735717 [33m404 [0m2.407 ms - 1093[0m
