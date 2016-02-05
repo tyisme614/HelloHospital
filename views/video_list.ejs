@@ -42,9 +42,12 @@
 				<a href='<%=video.url%>'><li class="clearfix">
 						<img src="images/<%=video.photo%>" alt="thumb" class="thumbnail">
 						<h2><%=video.title%></h2>
-						<p class="desc"><%=video.desc%></p>						
 						<span class="price"><%=video.length%></span>
-				</li></a>				
+						<p class="author"><%=video.author%></p>
+					    <p class="desc"><%=video.desc%></p>			
+						
+				</li>				
+				</a>				
 			    <%})%>
 			</ul>
 		</div>

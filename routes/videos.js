@@ -6,6 +6,7 @@ videos.push({
 	id:'1',
 	photo:'01.png',
 	title:'启动会祝语01',
+	author:'',
 	desc:'启动会祝语01',
 	length:'03:36',
 	url:'http://v.youku.com/v_show/id_XMTQzNTEyODI4MA==.html'
@@ -15,7 +16,8 @@ videos.push({
 	id:'2',
 	photo:'02.png',
 	title:'启动会祝语02',
-	desc:'启动会祝语02',
+	author:'',
+	desc:'',
 	length:'06:11',
 	url:'http://v.youku.com/v_show/id_XMTQzNTE3Mjc1Mg==.html'
 });
@@ -24,7 +26,8 @@ videos.push({
 	id:'3',
 	photo:'03.png',
 	title:'再论LM病变的血运重建策略（上）',
-	desc:'杨跃进',
+	author:'杨跃进',
+	desc:'',
 	length:'19:14',
 	url:'http://v.youku.com/v_show/id_XMTQzNTMzNTU4MA==.html'
 });
@@ -33,7 +36,8 @@ videos.push({
 	id:'4',
 	photo:'04.png',
 	title:'再论LM病变的血运重建策略（下）',
-	desc:'杨跃进',
+	author:'杨跃进',
+	desc:'',
 	length:'21:37',
 	url:'http://v.youku.com/v_show/id_XMTQzNTMzNjQ4NA==.html'
 });
@@ -42,7 +46,8 @@ videos.push({
 	id:'5',
 	photo:'05.png',
 	title:'NSTEACS的介入治疗（上）',
-	desc:'王红石',
+	author:'王红石',
+	desc:'',
 	length:'20:21',
 	url:'http://v.youku.com/v_show/id_XMTQzNTMzNjY1Mg==.html'
 });
